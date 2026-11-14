@@ -1,0 +1,12 @@
+# data & outputs (never commit these)
+data/
+runs/
+*.npy
+*.pt
+*.zip
+logs/
+slurm-*.out
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
